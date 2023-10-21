@@ -3,6 +3,8 @@
 ## Description
 This study aimed to compare the performance of six different machine learning algorithms (Elastic net, CART, SVM, RF, KNN and Bagged CART) for the task of predicting breast cancer status based on a set of features. The evaluation of the models was based on several performance metrics, including accuracy, F1-score, recall, and area under the receiver operating characteristic (ROC) curve. The results showed that the SVM and Elastic net models outperformed the other models, with the highest accuracy, F1-score, and recall. Additionally, the ROC curve achieved a high area under the curve (AUC), indicating a high degree of discrimination power for both SVM and Elastic net models. The LR model also had the best learning curve, achieving high performance with increasing training set size, generalizing well to new data compared to the other models, and are less likely to overfit. Analysis of feature importance revealed that each model was influenced differently by the input features. Overall, the study concluded that SVM and Elastic net models is the recommended model for breast cancer status prediction.
 
+## Report
+Breast_cancer_report.pdf
 
 ## Features
 Classification
